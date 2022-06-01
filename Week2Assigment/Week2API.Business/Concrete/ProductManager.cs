@@ -10,6 +10,9 @@ using Week2API.Entities.Concrete;
 
 namespace Week2API.Business.Concrete
 {
+    //Single-responsibility principle
+    //Open-closed principle
+    //Liskov substitution principle
     public class ProductManager : IProductService
     {
         IProductDal _productDal;

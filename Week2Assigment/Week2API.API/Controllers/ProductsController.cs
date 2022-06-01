@@ -14,6 +14,7 @@ namespace Week2API.API.Controllers
         {
             _productDal = productDal;
         }
+        // performs data retrieval
         [HttpGet]
         public IActionResult Get()
         {
@@ -23,7 +24,8 @@ namespace Week2API.API.Controllers
             var product = new Product { Id = 1, ProductName = "Monitör", Price = 5000, Stock = 25 };
             return Ok(product);
         }
-        [HttpGet("{productId}")]
+        // Returns the product whose id is given
+                [HttpGet("{productId}")]
         public IActionResult Get(int productId)
         {
             //var product=_productDal.GetEntity(p => p.Id == productId);
@@ -32,17 +34,19 @@ namespace Week2API.API.Controllers
             return Ok(productId);
 
         }
+        //the product is saved
         [HttpPost]
         public IActionResult Save(Product product)
         {
             return Ok(product);
         }
-
+        // the product is updated
         [HttpPut]
         public IActionResult Update(Product product)
         {
             return Ok(product);
         }
+        //the product is deleted
         [HttpDelete("{productId}")]
         public IActionResult Delete(int productId)
         {

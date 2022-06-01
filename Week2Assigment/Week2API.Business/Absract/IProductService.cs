@@ -8,6 +8,7 @@ using Week2API.Entities.Concrete;
 
 namespace Week2API.Business.Absract
 {
+    //Dependency Inversion Principle
     public interface IProductService
     {
         List<Product> GetAll(Expression<Func<Product, bool>> filter);
