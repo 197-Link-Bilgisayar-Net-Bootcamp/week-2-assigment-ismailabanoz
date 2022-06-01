@@ -1,0 +1,7 @@
+C:\Users\ismai\source\repos\week-2-assigment-ismailabanoz\Week2Assigment\Week2API.API\obj\Debug\net5.0\Week2API.API.csproj.AssemblyReference.cache
+C:\Users\ismai\source\repos\week-2-assigment-ismailabanoz\Week2Assigment\Week2API.API\obj\Debug\net5.0\Week2API.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismai\source\repos\week-2-assigment-ismailabanoz\Week2Assigment\Week2API.API\obj\Debug\net5.0\Week2API.API.AssemblyInfoInputs.cache
+C:\Users\ismai\source\repos\week-2-assigment-ismailabanoz\Week2Assigment\Week2API.API\obj\Debug\net5.0\Week2API.API.AssemblyInfo.cs
+C:\Users\ismai\source\repos\week-2-assigment-ismailabanoz\Week2Assigment\Week2API.API\obj\Debug\net5.0\Week2API.API.csproj.CoreCompileInputs.cache
+C:\Users\ismai\source\repos\week-2-assigment-ismailabanoz\Week2Assigment\Week2API.API\obj\Debug\net5.0\Week2API.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ismai\source\repos\week-2-assigment-ismailabanoz\Week2Assigment\Week2API.API\obj\Debug\net5.0\Week2API.API.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,124 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Week2API.Business/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Week2API.DataAccess": "1.0.0",
+          "Week2API.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Week2API.Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Week2API.Business.dll": {}
+        }
+      },
+      "Week2API.DataAccess/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Week2API.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Week2API.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Week2API.DataAccess.dll": {}
+        }
+      },
+      "Week2API.Entities/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Week2API.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Week2API.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Week2API.Business/1.0.0": {
+      "type": "project",
+      "path": "../Week2API.Business/Week2API.Business.csproj",
+      "msbuildProject": "../Week2API.Business/Week2API.Business.csproj"
+    },
+    "Week2API.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../Week2API.DataAccess/Week2API.DataAccess.csproj",
+      "msbuildProject": "../Week2API.DataAccess/Week2API.DataAccess.csproj"
+    },
+    "Week2API.Entities/1.0.0": {
+      "type": "project",
+      "path": "../Week2API.Entities/Week2API.Entities.csproj",
+      "msbuildProject": "../Week2API.Entities/Week2API.Entities.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Week2API.Business >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ismai\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\ismai\\source\\repos\\week-2-assigment-ismailabanoz\\Week2Assigment\\Week2API.API\\Week2API.API.csproj",
+      "projectName": "Week2API.API",
+      "projectPath": "C:\\Users\\ismai\\source\\repos\\week-2-assigment-ismailabanoz\\Week2Assigment\\Week2API.API\\Week2API.API.csproj",
+      "packagesPath": "C:\\Users\\ismai\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ismai\\source\\repos\\week-2-assigment-ismailabanoz\\Week2Assigment\\Week2API.API\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\ismai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\ismai\\source\\repos\\week-2-assigment-ismailabanoz\\Week2Assigment\\Week2API.Business\\Week2API.Business.csproj": {
+              "projectPath": "C:\\Users\\ismai\\source\\repos\\week-2-assigment-ismailabanoz\\Week2Assigment\\Week2API.Business\\Week2API.Business.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

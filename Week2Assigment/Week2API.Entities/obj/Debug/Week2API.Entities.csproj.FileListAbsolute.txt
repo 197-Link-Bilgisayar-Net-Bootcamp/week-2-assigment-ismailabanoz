@@ -1,0 +1,12 @@
+C:\Users\ismai\source\repos\week-2-assigment-ismailabanoz\Week2Assigment\Week2API.Entities\bin\Debug\Week2API.Entities.dll
+C:\Users\ismai\source\repos\week-2-assigment-ismailabanoz\Week2Assigment\Week2API.Entities\bin\Debug\Week2API.Entities.pdb
+C:\Users\ismai\source\repos\week-2-assigment-ismailabanoz\Week2Assigment\Week2API.Entities\obj\Debug\Week2API.Entities.csproj.AssemblyReference.cache
+C:\Users\ismai\source\repos\week-2-assigment-ismailabanoz\Week2Assigment\Week2API.Entities\obj\Debug\Week2API.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ismai\source\repos\week-2-assigment-ismailabanoz\Week2Assigment\Week2API.Entities\obj\Debug\Week2API.Entities.dll
+C:\Users\ismai\source\repos\week-2-assigment-ismailabanoz\Week2Assigment\Week2API.Entities\obj\Debug\Week2API.Entities.pdb
+C:\Users\ismai\source\repos\week-2-assigment-ismailabanoz\Week2Assigment\Week2API.Entities\bin\Debug\Week2API.Entities.dll.config
+C:\Users\ismai\source\repos\week-2-assigment-ismailabanoz\Week2Assigment\Week2API.Entities\bin\Debug\EntityFramework.dll
+C:\Users\ismai\source\repos\week-2-assigment-ismailabanoz\Week2Assigment\Week2API.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ismai\source\repos\week-2-assigment-ismailabanoz\Week2Assigment\Week2API.Entities\bin\Debug\EntityFramework.xml
+C:\Users\ismai\source\repos\week-2-assigment-ismailabanoz\Week2Assigment\Week2API.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ismai\source\repos\week-2-assigment-ismailabanoz\Week2Assigment\Week2API.Entities\obj\Debug\Week2API.Entities.csproj.CopyComplete
