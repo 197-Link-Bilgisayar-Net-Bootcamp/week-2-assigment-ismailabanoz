@@ -42,19 +42,19 @@ namespace Week2API.API.Controllers
         public IActionResult Save(Product product)
         {
             //_productDal.Add(new Product { Price = 3445,ProductName="23452345sdfgsdf",Stock=30 });
-            return Ok(product);
+            return Save(product);
         }
         // the product is updated
         [HttpPut]
         public IActionResult Update(Product product)
         {
-            return Ok(product);
+            return Update(product);
         }
         //the product is deleted
         [HttpDelete("{productId}")]
         public IActionResult Delete(int productId)
         {
-            return Ok(productId);
+            return Delete(productId);
         }
     }
 }
