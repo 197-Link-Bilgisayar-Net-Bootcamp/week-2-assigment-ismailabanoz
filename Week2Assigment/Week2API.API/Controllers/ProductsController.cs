@@ -10,9 +10,12 @@ namespace Week2API.API.Controllers
     public class ProductsController : ControllerBase
     {
         IProductDal _productDal;
+
+       
         public ProductsController(IProductDal productDal)
         {
             _productDal = productDal;
+            
         }
         // performs data retrieval
         [HttpGet]
@@ -38,6 +41,7 @@ namespace Week2API.API.Controllers
         [HttpPost]
         public IActionResult Save(Product product)
         {
+            //_productDal.Add(new Product { Price = 3445,ProductName="23452345sdfgsdf",Stock=30 });
             return Ok(product);
         }
         // the product is updated
